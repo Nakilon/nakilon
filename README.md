@@ -1,6 +1,6 @@
-I code since 1994.  
+**I code since 1994.  
 I'm skilled in Ruby and A.I.  
-I can solve unsolvable.
+I can solve unsolvable.**
 
 ---
 
@@ -14,6 +14,7 @@ Here are some of my
   * [RASEL](https://github.com/Nakilon/rasel) -- esoteric programming language
   * converted S.T.A.L.K.E.R. game assets to [NPC/artifacts/etc. maps](https://github.com/Nakilon/stalker-maps)
   * procedurally generatd [CS:GO map](https://www.reddit.com/r/GlobalOffensive/comments/84n44v/made_aim_and_de_maps_that_are_randomly_generated/)
+  * [visual web page structure recognition](https://github.com/Nakilon/pagerecognizer) proof-of-concept
   * utility chat bots (IRC, Slack, Telegram, Twitch, Trovo, etc.) -- one of them could learn to talk on fly
 * other projects:
   * [Shelenium](https://github.com/Nakilon/shelenium) -- a tool to automate or test terminal UIs, such as made with curses
