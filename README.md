@@ -15,7 +15,7 @@ Here are some of my
   * converted S.T.A.L.K.E.R. game assets to [NPC/artifacts/etc. maps](https://github.com/Nakilon/stalker-maps)
   * procedurally generated [CS:GO map](https://www.reddit.com/r/GlobalOffensive/comments/84n44v/made_aim_and_de_maps_that_are_randomly_generated/)
   * [visual web page structure recognition](https://github.com/Nakilon/pagerecognizer) proof-of-concept
-  * utility chat bots (IRC, Slack, Telegram, Twitch, Trovo, etc.) -- one of them could learn to talk on the fly
+  * utility chat bots ([IRC](https://github.com/Nakilon/nakiircbot), Slack, Telegram, Twitch, [Trovo](https://github.com/Nakilon/trovobot), etc.) -- one of them could learn to talk on the fly
 * other projects:
   * [Shelenium](https://github.com/Nakilon/shelenium) -- a tool to automate or test terminal UIs, such as made with curses
   * [directlink](https://github.com/Nakilon/directlink) -- CLI to convert arbitrary webpage URL to direct images links
