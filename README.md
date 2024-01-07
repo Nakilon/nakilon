@@ -6,7 +6,7 @@ I can solve unsolvable.**
 
 Here are some of my  
 * most successfull and handy projects:
-  * [IDHash](https://github.com/Nakilon/dhash-vips) -- perceptual image fingerprinting algorithm
+  * [IDHash](https://github.com/Nakilon/dhash-vips) -- the most accurate and fast perceptual image fingerprinting algorithm
   * [PCBR](https://github.com/Nakilon/pcbr) -- ranking algorithm, usable for non-heuristic optimization, agnostic to data distribution shape
   * [nakischema](https://github.com/Nakilon/nakischema) -- object validation with the simplest syntax
   * [p5rb](https://github.com/Nakilon/p5rb) -- Ruby DSL for p5.js
