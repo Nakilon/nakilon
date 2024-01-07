@@ -7,9 +7,9 @@ I can solve unsolvable.**
 Here are some of my  
 * most successfull and handy projects:
   * [IDHash](https://github.com/Nakilon/dhash-vips) -- the most accurate and fast perceptual image fingerprinting algorithm and Ruby gem
-  * [PCBR](https://github.com/Nakilon/pcbr) -- ranking algorithm, usable for non-heuristic optimization, agnostic to data distribution shape
   * [nakischema](https://github.com/Nakilon/nakischema) -- object validation with the simplest syntax
   * [p5rb](https://github.com/Nakilon/p5rb) -- Ruby DSL for p5.js
+  * [PCBR](https://github.com/Nakilon/pcbr) -- ranking algorithm, usable for non-heuristic optimization, agnostic to data distribution shape
 * most fun projects:
   * [RASEL](https://github.com/Nakilon/rasel) -- esoteric programming language
   * converted S.T.A.L.K.E.R. game assets to [NPC/artifacts/etc. maps](https://github.com/Nakilon/stalker-maps)
