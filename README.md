@@ -8,14 +8,15 @@ Here are some of my
 * most successfull and handy projects:
   * [IDHash](https://github.com/Nakilon/dhash-vips) -- the most accurate and fast perceptual image fingerprinting algorithm and Ruby gem
   * [nakischema](https://github.com/Nakilon/nakischema) -- object validation with the simplest syntax
-  * [p5rb](https://github.com/Nakilon/p5rb) -- Ruby DSL for p5.js
   * [PCBR](https://github.com/Nakilon/pcbr) -- ranking algorithm, usable for non-heuristic optimization, agnostic to data distribution shape
+  * [p5rb](https://github.com/Nakilon/p5rb) -- Ruby DSL for p5.js
 * most fun projects:
   * [RASEL](https://github.com/Nakilon/rasel) -- esoteric programming language
+  * utility chat bots (Slack, Telegram, [IRC](https://github.com/Nakilon/nakiircbot), Twitch, [Trovo](https://github.com/Nakilon/trovobot), etc.)  
+    one of them could learn to talk on the fly, [another one](https://about.velik-bot.nakilon.su/) is currently used by multiple Twitch streamers
   * converted S.T.A.L.K.E.R. game assets to [NPC/artifacts/etc. maps](https://github.com/Nakilon/stalker-maps)
   * procedurally generated [CS:GO map](https://www.reddit.com/r/GlobalOffensive/comments/84n44v/made_aim_and_de_maps_that_are_randomly_generated/)
   * [visual web page structure recognition](https://github.com/Nakilon/pagerecognizer) proof-of-concept
-  * utility chat bots (Slack, Telegram, [IRC](https://github.com/Nakilon/nakiircbot), Twitch, [Trovo](https://github.com/Nakilon/trovobot), etc.) -- one of them could learn to talk on the fly
 * other projects:
   * [Shelenium](https://github.com/Nakilon/shelenium) -- a tool to automate or test terminal UIs, such as made with curses
   * [directlink](https://github.com/Nakilon/directlink) -- CLI to convert arbitrary webpage URL to direct images links
