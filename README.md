@@ -8,6 +8,7 @@ Here are some of my
 * most successfull and handy projects:
   * [IDHash](https://github.com/Nakilon/dhash-vips) -- the most accurate and fast perceptual image fingerprinting algorithm and Ruby gem
   * [nakischema](https://github.com/Nakilon/nakischema) -- object validation with the simplest syntax
+  * [lineprofiler](https://github.com/Nakilon/lineprofiler) -- Ruby [statistical flat profiler](https://en.wikipedia.org/wiki/Profiling_(computer_programming)#Statistical_profilers)
   * [PCBR](https://github.com/Nakilon/pcbr) -- ranking algorithm, usable for non-heuristic optimization, agnostic to data distribution shape
   * [p5rb](https://github.com/Nakilon/p5rb) -- Ruby DSL for p5.js
 * most fun projects:
