@@ -28,7 +28,7 @@ A GitHub stars list of [tools and libraries I use](https://github.com/stars/Naki
 
 Sometimes I contribute to popular gems and SDKs with bugfixes or documentation improvements.  
 In spare time I translated ruby-lang.org to Russian.  
-I can make slides and give a talk.  
+I can make slides and give a talk.
 
 If you are a recruiter, here is my [CV in English](https://storage.yandexcloud.net/unversioned.www.nakilon.pro/VictorMaslov_CV2023mar_en.pdf) (updated Mar 2023).  
 And recently I started a little cringe [blog](https://nakilon.bearblog.dev/blog/) with notes about coding.
